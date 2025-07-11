@@ -1,0 +1,6 @@
+{
+    "workbench.settings.useSplitJSON": true,
+    "terminal.integrated.commandsToSkipShell": [
+        "\"java.project.referencedLibraries\": [     \"lib/json-20250517.jar\" ]"
+    ]
+}
