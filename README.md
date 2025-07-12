@@ -43,18 +43,21 @@ A simple **Java console application** that fetches **live weather data** using t
    git clone https://github.com/priyanjali1024/JavaweatherApp.git
 
 2. Compile the app:
-    javac -cp ".;lib/json-20250517.jar" WeatherApp.java
+javac -cp ".;lib/json-20250517.jar" WeatherApp.java
 
 3. Run the app:
-    java -cp ".;lib/json-20250517.jar" WeatherApp
+java -cp ".;lib/json-20250517.jar" WeatherApp
 
 🧠 What I Learned
-    *How to use APIs in Java
-    *Building and validating URLs with URI and URL
-    *Sending HTTP requests using HttpURLConnection
-    *Reading input streams using BufferedReader
-    *parsing JSON data in Java
-    *Using Git to track & push code to GitHub
+
+  1. How to use APIs in Java
+  2. Building and validating URLs with URI and URL
+  3. Sending HTTP requests using HttpURLConnection
+  4. Reading input streams using BufferedReader
+  5. Parsing JSON data in Java
+  6. Using Git to track & push code to GitHub
+
+
 
 🔗 Live Repository
     https://github.com/priyanjali1024/JavaweatherApp
