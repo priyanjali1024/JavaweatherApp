@@ -43,10 +43,12 @@ A simple **Java console application** that fetches **live weather data** using t
    git clone https://github.com/priyanjali1024/JavaweatherApp.git
 
 2. Compile the app:
-javac -cp ".;lib/json-20250517.jar" WeatherApp.java
+   ```bash
+   javac -cp ".;lib/json-20250517.jar" WeatherApp.java
 
-3. Run the app:
-java -cp ".;lib/json-20250517.jar" WeatherApp
+2. Run the app:
+   ```bash
+   java -cp ".;lib/json-20250517.jar" WeatherApp
 
 🧠 What I Learned
 
